@@ -1,6 +1,4 @@
-package Interface;
-
-public class Main {
+public class Pruebas {
 
 	public static void main(String[] args) {
 		TarjetaCredito t1 = new TarjetaCredito();
